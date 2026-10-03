@@ -18,7 +18,6 @@ Which traffic sources bring in visitors who actually buy, and at which stage of 
 | Stage| Definition |
 |-|-|
 | Total visitors | Distinct visitors per traffic medium |
-| Multi-page sessions | Sessions with more than one pageview |
 | Product viewers | Visitors who viewed a page under /google+redesign/ |
 | Added to cart | Visitors with an Add to Cart event |
 | Reached checkout | Visitors who reached the checkout step |
