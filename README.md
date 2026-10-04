@@ -43,6 +43,8 @@ The final output also includes a visitor_to_purchase_rate column (completed purc
 - Best-converting traffic source: CPM at (2.97%) visitor-to-purchase rate.
 
 - Highest-volume traffic source: Referral, but conversion is lower than average.
+-  "(none)" represents direct traffic, while "(not set)" represents sessions where Google Analytics did not record a traffic medium.
+
   
 ## Recommendation: 
 1. Improve product pages (images, pricing clarity, calls to action) to lift add-to-cart rate.
