@@ -12,6 +12,7 @@ Which traffic sources bring in visitors who actually buy, and at which stage of 
 -  Source:  Google Analytics Sample Dataset (bigquery-public-data.google_analytics_sample.ga_sessions_*)
 -  Description: Obfuscated Google Analytics 360 data from the Google Merchandise Store.
 -  Grain: One row per session, with nested hits data.
+-  The SQL file can be run directly in BigQuery with no setup, since the data is public.
 
 ## Funnel Stages
 
