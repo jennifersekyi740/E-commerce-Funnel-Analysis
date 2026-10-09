@@ -3,7 +3,7 @@ An end-to-end funnel analysis of the Google Merchandise Store, built with BigQue
 
 **Live Dashboard:**  [Click to view dashboard](https://datastudio.google.com/reporting/540d2f1a-407b-4117-83fe-e4be04cf82d4)
 
-![Dashboard preview](IMG_2320.jpeg)
+![Dashboard preview](IMG_2346.jpeg)
 
 ## Business Question 
 Which traffic sources bring in visitors who actually buy, and at which stage of the funnel do the biggest drop-offs happen?
